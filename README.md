@@ -1,5 +1,5 @@
 # Deploy With Hosting Firebase
-Link: [https://todoapp-80ccf.web.app/]
+Link: https://todoapp-80ccf.web.app/
 
 # Getting Started with Create React App
 
